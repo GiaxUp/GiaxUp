@@ -1,10 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2000&pause=1000&color=8BFF20&multiline=true&width=435&lines=Hi!+I'm+Giacomo.+Welcome+to+my+GitHub+page!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2000&pause=1000&color=8BFF20&multiline=true&width=435&lines=Hi!+I'm+Giacomo.+Welcome+to+my+GitHub+page!)](https://git.io/typing-svg)
 ### About me
-My strong passion for IT led me to enroll in [Epicode](https://epicode.com/it/)'s Fullstack Web Developer course in November 2022! At the moment I have completed it, but I am dedicating myself to reinforcing the concepts learned in six months in order to consolidate my knowledge.
-
+My strong passion for IT led me to enroll in [Epicode](https://epicode.com/it/)'s Fullstack Web Developer course in November 2022! At the moment I have completed it, but I am dedicating myself to reinforcing the concepts learned in six months in order to consolidate my knowledge.  
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,discord,eclipse,git,github,html,java,js,mysql,nodejs,ps,postgres,postman,react,redux,sass,spring,stackoverflow,ts,vscode,)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,discord,eclipse,git,github,html,java,js,mysql,nodejs,ps,postgres,postman,react,redux,sass,spring,stackoverflow,ts,vscode,)](https://skillicons.dev)  
 ### Questions?
 <p>
   <a href="https://www.linkedin.com/in/giacomo-della-peruta/">
