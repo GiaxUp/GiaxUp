@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,discord,eclipse,git,github,html,java,js,mysql,nodejs,ps,postgres,postman,react,redux,sass,spring,stackoverflow,ts,vscode,)](https://skillicons.dev)
+
 <!--
 **GiaxUp/GiaxUp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
