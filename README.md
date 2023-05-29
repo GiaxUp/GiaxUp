@@ -9,4 +9,6 @@ My strong passion for IT led me to enroll in [Epicode](https://epicode.com/it/)'
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/GiaxUp)
 [![Email](https://img.shields.io/badge/Email-%232CA01C.svg?logo=maildotru&logoColor=white)](mailto:giaxup@live.it)
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,discord,eclipse,git,github,html,java,js,mysql,nodejs,ps,postgres,postman,react,redux,sass,spring,stackoverflow,ts,vscode,)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,discord,eclipse,git,github,html,java,js,mysql,nodejs,ps,postgres,postman,react,redux,sass,spring,stackoverflow,vscode)](https://skillicons.dev)  
+### Next to learn
+[![My Skills](https://skillicons.dev/icons?i=angular,tailwind,threejs,ts)](https://skillicons.dev)  
