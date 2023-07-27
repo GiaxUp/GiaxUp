@@ -11,4 +11,4 @@ My strong passion for IT led me to enroll in [Epicode](https://epicode.com/it/)'
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,css,discord,eclipse,git,github,html,java,js,mysql,nodejs,ps,postgres,postman,react,redux,sass,spring,stackoverflow,vscode)](https://skillicons.dev)  
 ### Next to learn
-[![My Skills](https://skillicons.dev/icons?i=angular,tailwind,threejs,ts)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=tailwind,ts)](https://skillicons.dev)  
