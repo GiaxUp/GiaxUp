@@ -6,7 +6,7 @@ I'm currently avaiable for remote positions as a Frontend Web Developer.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giacomo-della-peruta/)
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=Telegram&logoColor=white)](https://www.t.me/Giacs)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Giacs)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/GiaxUp)
+[![X](https://img.shields.io/badge/X%20|%20Twitter-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/GiaxUp)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/GiaxUp)
 [![Email](https://img.shields.io/badge/Email-%232CA01C.svg?logo=maildotru&logoColor=white)](mailto:giaxup@live.it)
 ### Skills
