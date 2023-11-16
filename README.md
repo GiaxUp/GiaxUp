@@ -10,4 +10,7 @@ I'm currently avaiable for remote positions as a Frontend Web Developer.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Giacs)
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,discord,eclipse,git,github,html,java,js,mysql,nextjs,nodejs,ps,postgres,postman,react,redux,sass,spring,tailwind,threejs,ts,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,discord,eclipse,git,github,html,java,js,mysql,nodejs,ps,postgres,postman,react,redux,sass,spring,tailwind,ts,vscode)](https://skillicons.dev)
+
+### Next goals
+[![My Skills](https://skillicons.dev/icons?i=angular,nextjs,threejs,vite)](https://skillicons.dev)
