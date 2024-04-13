@@ -5,7 +5,6 @@ I'm currently avaiable for positions as a Frontend Web Developer, in a full-remo
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300A98F.svg?logo=adafruit&logoColor=white)](https://giaxup.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giacomo-della-peruta/)
 [![Email](https://img.shields.io/badge/Email-%232CA01C.svg?logo=maildotru&logoColor=white)](mailto:giaxup@live.it)
-[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=Telegram&logoColor=white)](https://www.t.me/Giacs)
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,css,discord,eclipse,git,github,html,java,js,mysql,nodejs,ps,postgres,postman,react,redux,sass,spring,tailwind,ts,vscode)](https://skillicons.dev)
