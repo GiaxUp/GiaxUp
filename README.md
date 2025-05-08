@@ -8,5 +8,3 @@ My strong passion for IT led me to start a Fullstack Web Developer bootcamp in N
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,css,discord,eclipse,git,github,html,java,js,mysql,nodejs,ps,postgres,postman,react,redux,sass,spring,tailwind,ts,vscode)](https://skillicons.dev)
-### Next goals
-[![Next Goals](https://skillicons.dev/icons?i=angular,cs,nextjs)](https://skillicons.dev)
